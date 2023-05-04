@@ -15,7 +15,7 @@
 
 1.从本仓库的 [Releases](https://github.com/Hacker-yfs/PTRS_Magisk/releases)下载bootanimation.zip。
 
-2.通过MT管理器或其他可访问到/system/media的文件管理器
+2.通过MT管理器或其他可访问到/system/media的文件管理器。
 
 3.进入/system/media，替换bootanimation.zip。
 
