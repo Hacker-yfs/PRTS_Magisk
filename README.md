@@ -1,5 +1,5 @@
-# PTRS_Magisk
-基于Magisk的PTRS开机动画，动画来源于B站 [xxxxx](https://space.bilibili.com) 。
+﻿# PTRS_Magisk
+基于Magisk的PTRS开机动画，动画来源于B站 [HI-FHY](https://www.bilibili.com/video/BV1R24y1q7A6) 。
 
 **玩机有风险，建议提前备份好手机数据后再进行操作！（特别是直接替换bootanimation.zip的方式）**
 ## 安装
